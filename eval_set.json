@@ -1,0 +1,5 @@
+[
+  {"question": "What are the two phases of a RAG pipeline?", "expected_source": "rag_basics.md", "expected_keywords": ["ingestion", "query"]},
+  {"question": "What chunk size is a good starting point?", "expected_source": "rag_basics.md", "expected_keywords": ["800", "overlap"]},
+  {"question": "What does hit rate at k measure?", "expected_source": "rag_basics.md", "expected_keywords": ["top"]}
+]
