@@ -178,14 +178,7 @@ Each run of `eval.py` records the settings and scores, so experiments are direct
 | **MRR** | Mean Reciprocal Rank: rewards the correct source appearing higher in the results |
 | **Keyword coverage** | Share of expected keywords found in the generated answer (`--answers`) |
 
-**Results** *(replace with your own numbers from `logs/eval_history.csv`)*:
 
-| Run | Configuration | Hit Rate@4 | MRR | Keyword coverage |
-|---|---|---|---|---|
-| 1 | Baseline: 800/150, TOP_K=4, strict prompt | | | |
-| 2 | Relaxed prompt | | | |
-| 3 | TOP_K=6 | | | |
-| 4 | Larger local model | | | |
 
 ---
 
